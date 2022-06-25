@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate": false,
     "options": {
-        "niceName": "NGSP"
+        "niceName": "NGSP (patch 92)"
     },
     "servers": ["http://git.dev.hsdn.org/tera-v92/ngsp/raw/master/"],
     "supportUrl": "DM",
