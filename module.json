@@ -6,6 +6,6 @@
     "servers": ["http://git.dev.hsdn.org/tera-v92/ngsp/raw/master/"],
     "supportUrl": "DM",
     "drmKey": "YOUR_DRMKEY_HERE",
-    "name": "ngsp",
+    "name": "ngsp_92",
     "description": "Description goes here."
 }
